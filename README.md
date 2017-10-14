@@ -1,3 +1,3 @@
 # hello-world
-Hello world
+Hello, world.
 I'm nonakakanon from Japan!
